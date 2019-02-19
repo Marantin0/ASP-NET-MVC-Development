@@ -1,0 +1,14 @@
+C:\Users\martin.georgiev\source\repos\Playground\MoreOnClasses\bin\Debug\MoreOnClasses.exe.config
+C:\Users\martin.georgiev\source\repos\Playground\MoreOnClasses\bin\Debug\MoreOnClasses.exe
+C:\Users\martin.georgiev\source\repos\Playground\MoreOnClasses\bin\Debug\MoreOnClasses.pdb
+C:\Users\martin.georgiev\source\repos\Playground\MoreOnClasses\obj\Debug\MoreOnClasses.csprojAssemblyReference.cache
+C:\Users\martin.georgiev\source\repos\Playground\MoreOnClasses\obj\Debug\MoreOnClasses.csproj.CoreCompileInputs.cache
+C:\Users\martin.georgiev\source\repos\Playground\MoreOnClasses\obj\Debug\MoreOnClasses.exe
+C:\Users\martin.georgiev\source\repos\Playground\MoreOnClasses\obj\Debug\MoreOnClasses.pdb
+C:\Users\martin.georgiev\Desktop\Projects\repos\Playground\MoreOnClasses\bin\Debug\MoreOnClasses.exe.config
+C:\Users\martin.georgiev\Desktop\Projects\repos\Playground\MoreOnClasses\bin\Debug\MoreOnClasses.exe
+C:\Users\martin.georgiev\Desktop\Projects\repos\Playground\MoreOnClasses\bin\Debug\MoreOnClasses.pdb
+C:\Users\martin.georgiev\Desktop\Projects\repos\Playground\MoreOnClasses\obj\Debug\MoreOnClasses.csprojAssemblyReference.cache
+C:\Users\martin.georgiev\Desktop\Projects\repos\Playground\MoreOnClasses\obj\Debug\MoreOnClasses.csproj.CoreCompileInputs.cache
+C:\Users\martin.georgiev\Desktop\Projects\repos\Playground\MoreOnClasses\obj\Debug\MoreOnClasses.exe
+C:\Users\martin.georgiev\Desktop\Projects\repos\Playground\MoreOnClasses\obj\Debug\MoreOnClasses.pdb

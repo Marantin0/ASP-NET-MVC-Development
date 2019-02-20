@@ -1,0 +1,5 @@
+C:\Users\martin.georgiev\source\repos\Playground\com.squareconnection.mylibrary\bin\Debug\com.squareconnection.mylibrary.dll
+C:\Users\martin.georgiev\source\repos\Playground\com.squareconnection.mylibrary\bin\Debug\com.squareconnection.mylibrary.pdb
+C:\Users\martin.georgiev\source\repos\Playground\com.squareconnection.mylibrary\obj\Debug\com.squareconnection.mylibrary.csproj.CoreCompileInputs.cache
+C:\Users\martin.georgiev\source\repos\Playground\com.squareconnection.mylibrary\obj\Debug\com.squareconnection.mylibrary.dll
+C:\Users\martin.georgiev\source\repos\Playground\com.squareconnection.mylibrary\obj\Debug\com.squareconnection.mylibrary.pdb

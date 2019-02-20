@@ -1,0 +1,11 @@
+C:\Users\martin.georgiev\source\repos\Playground\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\martin.georgiev\source\repos\Playground\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\martin.georgiev\source\repos\Playground\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\martin.georgiev\source\repos\Playground\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\martin.georgiev\source\repos\Playground\MyLibrary\obj\Debug\MyLibrary.pdb
+C:\Users\martin.georgiev\Desktop\Projects\repos\Playground\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\martin.georgiev\Desktop\Projects\repos\Playground\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\martin.georgiev\Desktop\Projects\repos\Playground\MyLibrary\obj\Debug\MyLibrary.csprojAssemblyReference.cache
+C:\Users\martin.georgiev\Desktop\Projects\repos\Playground\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\martin.georgiev\Desktop\Projects\repos\Playground\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\martin.georgiev\Desktop\Projects\repos\Playground\MyLibrary\obj\Debug\MyLibrary.pdb

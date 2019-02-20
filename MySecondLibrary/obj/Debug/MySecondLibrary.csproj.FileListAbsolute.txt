@@ -1,0 +1,12 @@
+C:\Users\martin.georgiev\source\repos\Playground\MySecondLibrary\bin\Debug\MySecondLibrary.dll
+C:\Users\martin.georgiev\source\repos\Playground\MySecondLibrary\bin\Debug\MySecondLibrary.pdb
+C:\Users\martin.georgiev\source\repos\Playground\MySecondLibrary\obj\Debug\MySecondLibrary.csprojAssemblyReference.cache
+C:\Users\martin.georgiev\source\repos\Playground\MySecondLibrary\obj\Debug\MySecondLibrary.csproj.CoreCompileInputs.cache
+C:\Users\martin.georgiev\source\repos\Playground\MySecondLibrary\obj\Debug\MySecondLibrary.dll
+C:\Users\martin.georgiev\source\repos\Playground\MySecondLibrary\obj\Debug\MySecondLibrary.pdb
+C:\Users\martin.georgiev\Desktop\Projects\repos\Playground\MySecondLibrary\bin\Debug\MySecondLibrary.dll
+C:\Users\martin.georgiev\Desktop\Projects\repos\Playground\MySecondLibrary\bin\Debug\MySecondLibrary.pdb
+C:\Users\martin.georgiev\Desktop\Projects\repos\Playground\MySecondLibrary\obj\Debug\MySecondLibrary.csprojAssemblyReference.cache
+C:\Users\martin.georgiev\Desktop\Projects\repos\Playground\MySecondLibrary\obj\Debug\MySecondLibrary.csproj.CoreCompileInputs.cache
+C:\Users\martin.georgiev\Desktop\Projects\repos\Playground\MySecondLibrary\obj\Debug\MySecondLibrary.dll
+C:\Users\martin.georgiev\Desktop\Projects\repos\Playground\MySecondLibrary\obj\Debug\MySecondLibrary.pdb

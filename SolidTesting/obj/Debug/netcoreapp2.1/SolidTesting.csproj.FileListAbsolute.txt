@@ -1,0 +1,11 @@
+C:\Users\martin.georgiev\Desktop\Projects\repos\Playground\SolidTesting\obj\Debug\netcoreapp2.1\SolidTesting.csprojAssemblyReference.cache
+C:\Users\martin.georgiev\Desktop\Projects\repos\Playground\SolidTesting\obj\Debug\netcoreapp2.1\SolidTesting.csproj.CoreCompileInputs.cache
+C:\Users\martin.georgiev\Desktop\Projects\repos\Playground\SolidTesting\obj\Debug\netcoreapp2.1\SolidTesting.AssemblyInfoInputs.cache
+C:\Users\martin.georgiev\Desktop\Projects\repos\Playground\SolidTesting\obj\Debug\netcoreapp2.1\SolidTesting.AssemblyInfo.cs
+C:\Users\martin.georgiev\Desktop\Projects\repos\Playground\SolidTesting\bin\Debug\netcoreapp2.1\SolidTesting.deps.json
+C:\Users\martin.georgiev\Desktop\Projects\repos\Playground\SolidTesting\bin\Debug\netcoreapp2.1\SolidTesting.runtimeconfig.json
+C:\Users\martin.georgiev\Desktop\Projects\repos\Playground\SolidTesting\bin\Debug\netcoreapp2.1\SolidTesting.runtimeconfig.dev.json
+C:\Users\martin.georgiev\Desktop\Projects\repos\Playground\SolidTesting\bin\Debug\netcoreapp2.1\SolidTesting.dll
+C:\Users\martin.georgiev\Desktop\Projects\repos\Playground\SolidTesting\bin\Debug\netcoreapp2.1\SolidTesting.pdb
+C:\Users\martin.georgiev\Desktop\Projects\repos\Playground\SolidTesting\obj\Debug\netcoreapp2.1\SolidTesting.dll
+C:\Users\martin.georgiev\Desktop\Projects\repos\Playground\SolidTesting\obj\Debug\netcoreapp2.1\SolidTesting.pdb
